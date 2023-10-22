@@ -1,0 +1,15 @@
+pandas
+flask
+transformers
+torch
+torchvision
+torchaudio
+pypdf2
+pypdf
+notebook==6.1.5
+jieba
+gensim
+nltk
+pymongo
+flask_cors
+flask-restful
